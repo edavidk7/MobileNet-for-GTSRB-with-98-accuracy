@@ -1,0 +1,43 @@
+Nejvyšší dovolená rychlost 20km/h
+Nejvyšší dovolená rychlost 30 km/h
+Nejvyšší dovolená rychlost 50 km/h
+Nejvyšší dovolená rychlost 60 km/h
+Nejvyšší dovolená rychlost 70 km/h
+Nejvyšší dovolená rychlost 80 km/h
+Konec nejvyšší dovolené rychlosti
+Nejvyšší dovolená rychlost 100 km/h
+Nejvyšší dovolená rychlost 120 km/h
+Zákaz předjíždění
+Zákaz předjíždění pro nákladní autombily
+Křižovatka s vedlejší pozemní komunikací
+Hlavní pozemní komunikace
+Dej přednost v jízdě!
+Stůj, dej přednost v jízdě!
+Zákaz vjezdu všech vozidel (v obou směrech)
+Zákaz vjezdu nákladních automobilů
+Zákaz vjezdu všech vozidel
+Jiné nebezpečí
+Zatáčka vlevo
+Zatáčka vpravo
+Dvojitá zatáčka, první vlevo
+Nerovnost vozovky
+Nebezpečí smyku
+Zúžená vozovka z jedné strany
+Práce na silnici
+Světelné signály
+Chodci
+Děti
+Cyklisté
+Náledí
+Zvěř
+Konec všech zákazů
+Přikázaný směr jízdy vpravo
+Přikázaný směr jízdy vlevo
+Přikázaný směr jízdy rovně
+Přikázaný směr jízdy rovně a vpravo
+Přikázaný směr jízdy rovně a vlevo
+Přikázaný směr objíždění vpravo
+Přikázaný směr objíždění vlevo
+Kruhový objezd
+Konec zákazu předjíždění
+Konec zákazu předjíždění pro nákladní automobily
